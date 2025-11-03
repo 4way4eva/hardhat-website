@@ -122,10 +122,7 @@
     },
     "zoneGovernance": {
       "autonomy": true,
-      "leadershipTypes": [
-        "Elected",
-        "Hereditary"
-      ],
+      "leadershipTypes": ["Elected", "Hereditary"],
       "components": [
         "Independent judicial systems",
         "Zone-specific legislative bodies",
@@ -315,12 +312,8 @@
       "emergencyProtocols": "Imminent existential threats"
     },
     "armsControl": {
-      "prohibitions": [
-        "Weapons of mass planetary destruction"
-      ],
-      "limitations": [
-        "Stellar-scale weaponry"
-      ],
+      "prohibitions": ["Weapons of mass planetary destruction"],
+      "limitations": ["Stellar-scale weaponry"],
       "requirements": [
         "Mandatory registration of military assets above frigate class",
         "Joint inspection protocols"
@@ -351,10 +344,7 @@
     "heritageProtection": {
       "responsibility": "Each zone",
       "support": "Imperial Heritage Council",
-      "assistance": [
-        "Technical support",
-        "Financial support"
-      ]
+      "assistance": ["Technical support", "Financial support"]
     }
   },
   "validationProcedures": {
