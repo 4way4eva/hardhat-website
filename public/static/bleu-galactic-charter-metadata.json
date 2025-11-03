@@ -1,0 +1,529 @@
+{
+  "charter": {
+    "name": "BLEU Galactic Charter",
+    "version": "1.0.0",
+    "type": "Sovereign Declaration",
+    "established": "Year of Galactic Unity",
+    "jurisdiction": "BLEU Galactic Empire",
+    "language": "Galactic Standard English",
+    "format": "machine-readable",
+    "purpose": "ENFT minting and blockchain validation"
+  },
+  "metadata": {
+    "documentId": "BLEU-CHARTER-001",
+    "hash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "ipfsHash": "QmBleuGalacticCharter",
+    "timestamp": "2025-11-03T03:37:17.511Z",
+    "signatories": 6,
+    "articles": 10,
+    "sections": 52,
+    "enftCompatible": true,
+    "blockchainReady": true
+  },
+  "preamble": {
+    "description": "The founding declaration of the BLEU Galactic Empire, establishing principles of hydro-economic balance, interstellar cooperation, and sustainable cosmic development.",
+    "sovereignPeoples": [
+      "Aquatic Vortex Zone",
+      "TropiCore Forest Dome",
+      "Volcanic Rift Arena",
+      "Polar Womb Vault",
+      "Dimensional Spiral Port",
+      "Galactic Observatory Nexus"
+    ],
+    "foundingPrinciples": [
+      "Hydro-economic balance",
+      "Interstellar cooperation",
+      "Sustainable cosmic development",
+      "Finite resource recognition",
+      "Collaborative governance",
+      "Equitable prosperity"
+    ]
+  },
+  "sovereigntyClauses": {
+    "territorialSovereignty": {
+      "counterZones": [
+        {
+          "id": 1,
+          "name": "Aquatic Vortex Zone",
+          "domain": "Poseidon Empire",
+          "heritage": "Greek/Roman Sea Heritage",
+          "sovereignty": "autonomous",
+          "status": "active"
+        },
+        {
+          "id": 2,
+          "name": "TropiCore Forest Dome",
+          "domain": "Portuguese Casa da Guiné Legacy",
+          "heritage": "Portuguese Colonial Heritage",
+          "sovereignty": "autonomous",
+          "status": "active"
+        },
+        {
+          "id": 3,
+          "name": "Volcanic Rift Arena",
+          "domain": "Dutch West India Company Heritage",
+          "heritage": "Dutch Colonial Heritage",
+          "sovereignty": "autonomous",
+          "status": "active"
+        },
+        {
+          "id": 4,
+          "name": "Polar Womb Vault",
+          "domain": "British South Africa Company Legacy",
+          "heritage": "British Colonial Heritage",
+          "sovereignty": "autonomous",
+          "status": "active"
+        },
+        {
+          "id": 5,
+          "name": "Dimensional Spiral Port",
+          "domain": "Anglo-Persian Oil Company Heritage",
+          "heritage": "Anglo-Persian Heritage",
+          "sovereignty": "autonomous",
+          "status": "active"
+        },
+        {
+          "id": 6,
+          "name": "Galactic Observatory Nexus",
+          "domain": "Compagnie du Congo Legacy",
+          "heritage": "Belgian Colonial Heritage",
+          "sovereignty": "autonomous",
+          "status": "active"
+        }
+      ]
+    },
+    "jurisdictionalAuthority": {
+      "zoneExclusiveJurisdiction": [
+        "Internal economic policy implementation",
+        "Cultural and social governance",
+        "Resource extraction and refinement protocols",
+        "Defensive military operations within territorial boundaries"
+      ],
+      "imperialSupremeAuthority": [
+        "Inter-zone commerce and trade agreements",
+        "Galactic defense coordination",
+        "Unified monetary policy (HydroCoin standards)",
+        "Diplomatic relations with external galactic entities"
+      ]
+    }
+  },
+  "governanceStructures": {
+    "imperialCouncil": {
+      "composition": "Six High Representatives, one from each Counter-Zone",
+      "meetingFrequency": "Quarterly",
+      "location": "Galactic Observatory Nexus",
+      "powers": [
+        "Establish and modify HydroCoin monetary policy",
+        "Ratify inter-zone treaties and trade agreements",
+        "Authorize military actions beyond Counter-Zone boundaries",
+        "Amend this Charter by unanimous consent"
+      ],
+      "votingSystem": "Unanimous consent for major decisions"
+    },
+    "zoneGovernance": {
+      "autonomy": true,
+      "leadershipTypes": [
+        "Elected",
+        "Hereditary"
+      ],
+      "components": [
+        "Independent judicial systems",
+        "Zone-specific legislative bodies",
+        "Administrative agencies"
+      ]
+    },
+    "arbiterAssembly": {
+      "members": 21,
+      "distribution": "Equal from all Counter-Zones",
+      "purpose": "Resolve disputes and interpret Charter",
+      "votingThreshold": "Two-thirds majority",
+      "authority": "Binding decisions"
+    }
+  },
+  "economicProtocols": {
+    "hydroCoin": {
+      "officialCurrency": true,
+      "type": "Resource-backed digital currency",
+      "principles": {
+        "peggingBase": "Tangible resources specific to Counter-Zone",
+        "supplyManagement": "Floating supply scaling with verified resource production",
+        "reserveRequirements": {
+          "minimumRatio": 0.5,
+          "description": "Minimum 50% reserve ratio in physical assets"
+        },
+        "velocityTargets": {
+          "transactionsPerYear": 12,
+          "purpose": "Ensure stability"
+        },
+        "governance": "Smart contract automation via PoseiNet™ and equivalent systems"
+      },
+      "variants": [
+        {
+          "zone": "Aquatic Vortex Zone",
+          "economyType": "Sonic healing / Marine diplomacy",
+          "pegging": "1 aqua credit = 1 m³ desalinated water",
+          "supplyCap": "Floating; scales with desalination output",
+          "reserveRatio": "≥50% locked",
+          "velocityTarget": 12,
+          "governanceSystem": "PoseiNet™ smart contracts",
+          "redeemable": true,
+          "backing": "Marine desalination yield and oceanic reserve credit"
+        },
+        {
+          "zone": "TropiCore Forest Dome",
+          "economyType": "Pollinator economy",
+          "pegging": "1 pollen credit = verified pollination yield",
+          "supplyCap": "Seasonal adjustment based on biodiversity metrics",
+          "reserveRatio": "≥50%",
+          "velocityTarget": 12,
+          "governanceSystem": "BioChain™ autonomous contracts",
+          "redeemable": true,
+          "backing": "Ecological preservation funds"
+        },
+        {
+          "zone": "Volcanic Rift Arena",
+          "economyType": "Lava rebirth economy",
+          "pegging": "1 thermal credit = geothermal energy output",
+          "supplyCap": "Dynamic scaling with volcanic activity monitoring",
+          "reserveRatio": "≥50%",
+          "velocityTarget": 12,
+          "governanceSystem": "PyroNet™ algorithmic distribution",
+          "redeemable": true,
+          "backing": "Thermal energy storage"
+        },
+        {
+          "zone": "Polar Womb Vault",
+          "economyType": "Cryo memory preservation",
+          "pegging": "1 cryo credit = data storage capacity",
+          "supplyCap": "Scales with secure storage infrastructure",
+          "reserveRatio": "≥50%",
+          "velocityTarget": 12,
+          "governanceSystem": "FrostChain™ preservation protocols",
+          "redeemable": true,
+          "backing": "Redundant backup systems"
+        },
+        {
+          "zone": "Dimensional Spiral Port",
+          "economyType": "Temporal tide control",
+          "pegging": "1 temporal credit = verified time dilation access",
+          "supplyCap": "Limited by quantum stability thresholds",
+          "reserveRatio": "≥50%",
+          "velocityTarget": 12,
+          "governanceSystem": "ChronoNet™ causality protection",
+          "redeemable": true,
+          "backing": "Temporal anchor reserves"
+        },
+        {
+          "zone": "Galactic Observatory Nexus",
+          "economyType": "Solar spectrum economy",
+          "pegging": "1 stellar credit = photonic energy capture",
+          "supplyCap": "Scales with stellar radiation harvesting",
+          "reserveRatio": "≥50%",
+          "velocityTarget": 12,
+          "governanceSystem": "SolarChain™ spectrum allocation",
+          "redeemable": true,
+          "backing": "Energy accumulation banks"
+        }
+      ]
+    },
+    "interZoneTrade": {
+      "currency": "HydroCoin or approved derivatives",
+      "exchangeRateMechanism": "Unified Imperial Treasury management",
+      "fairValueConversion": true
+    },
+    "economicRights": [
+      "Participate in zone economic activities",
+      "Hold and trade HydroCoin without arbitrary restriction",
+      "Access basic resources at subsidized rates",
+      "Receive universal basic income in HydroCoin equivalents"
+    ]
+  },
+  "nodesAndSectors": {
+    "strategicNodes": {
+      "total": 144,
+      "distribution": "Across six Counter-Zones",
+      "purposes": [
+        "Commerce and trade facilitation",
+        "Military defense installations",
+        "Scientific research stations",
+        "Cultural exchange centers",
+        "Transportation nexus points"
+      ]
+    },
+    "sectorClassifications": [
+      {
+        "type": "Alpha",
+        "description": "Primary production zones for resource extraction and refinement"
+      },
+      {
+        "type": "Beta",
+        "description": "Industrial manufacturing and processing regions"
+      },
+      {
+        "type": "Gamma",
+        "description": "Residential and civilian population centers"
+      },
+      {
+        "type": "Delta",
+        "description": "Military and defense installations"
+      },
+      {
+        "type": "Epsilon",
+        "description": "Research and development facilities"
+      },
+      {
+        "type": "Omega",
+        "description": "Protected environmental and cultural preservation areas"
+      }
+    ],
+    "nodeAdministration": {
+      "dualAuthority": true,
+      "localGovernance": "Day-to-day administration",
+      "imperialOversight": "Security and trade compliance"
+    }
+  },
+  "defenseAndIntelligence": {
+    "galacticDefenseForce": {
+      "abbreviation": "GDF",
+      "type": "Unified military organization",
+      "composition": "Contingents from all Counter-Zones",
+      "structure": {
+        "supremeCommander": {
+          "appointedBy": "Imperial Council",
+          "term": "Annual rotation"
+        },
+        "components": [
+          "Zone Defense Legions",
+          "Rapid Response Fleets",
+          "Cyber Defense Corps"
+        ]
+      }
+    },
+    "unifiedIntelligenceNetwork": {
+      "abbreviation": "UIN",
+      "purpose": "Information gathering and threat assessment",
+      "principles": [
+        "No unauthorized surveillance of allied zones",
+        "Transparent threat assessment sharing",
+        "Joint counter-intelligence operations",
+        "Protection of civilian privacy rights"
+      ]
+    },
+    "rulesOfEngagement": {
+      "offensiveOperations": "Unanimous Imperial Council vote",
+      "defensiveActions": "Zone leadership within borders",
+      "emergencyProtocols": "Imminent existential threats"
+    },
+    "armsControl": {
+      "prohibitions": [
+        "Weapons of mass planetary destruction"
+      ],
+      "limitations": [
+        "Stellar-scale weaponry"
+      ],
+      "requirements": [
+        "Mandatory registration of military assets above frigate class",
+        "Joint inspection protocols"
+      ]
+    }
+  },
+  "culturalProvisions": {
+    "culturalSovereignty": {
+      "zoneAutonomy": [
+        "Educational curriculum and philosophy",
+        "Religious and spiritual practices",
+        "Artistic expression and cultural heritage",
+        "Language policy and preservation"
+      ]
+    },
+    "interCulturalExchange": [
+      "Galactic University System with campuses in all zones",
+      "Annual Cultural Symposium rotating between Counter-Zones",
+      "Artist and scholar exchange programs",
+      "Preservation of endangered cultural traditions"
+    ],
+    "universalRights": [
+      "Freedom of thought, expression, and belief",
+      "Right to education and knowledge access",
+      "Protection from discrimination",
+      "Freedom of movement between zones"
+    ],
+    "heritageProtection": {
+      "responsibility": "Each zone",
+      "support": "Imperial Heritage Council",
+      "assistance": [
+        "Technical support",
+        "Financial support"
+      ]
+    }
+  },
+  "validationProcedures": {
+    "treatyRatification": {
+      "requirement": "Ratification by all six Counter-Zones",
+      "process": "Through established legislative processes",
+      "effect": "Supersedes conflicting local laws in imperial matters"
+    },
+    "amendmentProcess": {
+      "steps": [
+        "Proposal by any High Representative to Imperial Council",
+        "Unanimous approval by Imperial Council",
+        "Ratification by all six Counter-Zone legislatures within one galactic standard year",
+        "Public referendum achieving 60% approval in at least four zones"
+      ]
+    },
+    "complianceMonitoring": {
+      "body": "Imperial Compliance Commission",
+      "composition": "Independent jurists and technical experts",
+      "functions": [
+        "Monitor adherence to Charter provisions",
+        "Issue non-binding recommendations",
+        "Report violations to Arbiter Assembly",
+        "Conduct periodic reviews"
+      ]
+    },
+    "withdrawalProvisions": {
+      "requirements": [
+        "Two-thirds legislative vote in favor",
+        "Public referendum achieving 70% approval",
+        "One galactic standard year notice period",
+        "Negotiated settlement of shared assets and obligations"
+      ]
+    },
+    "enforcementMechanisms": [
+      "Economic sanctions and trade restrictions",
+      "Suspension of voting rights in Imperial Council",
+      "Military intervention (last resort, unanimous Council vote required)",
+      "Arbitration and mediation as preferred primary remedies"
+    ]
+  },
+  "environmentalStewardship": {
+    "planetaryProtection": [
+      "Sustainable resource extraction practices",
+      "Protection of endangered ecosystems",
+      "Climate stabilization initiatives",
+      "Zero-waste circular economy goals"
+    ],
+    "resourceSharing": {
+      "triggers": "Environmental crisis or resource scarcity",
+      "protocols": [
+        "Emergency resource allocation",
+        "Mutual aid between zones",
+        "Prioritize preservation of life-sustaining systems",
+        "Coordinate scientific research for solutions"
+      ]
+    }
+  },
+  "technologicalCooperation": {
+    "researchCollaboration": [
+      "Joint research initiatives on critical technologies",
+      "Open-source knowledge sharing platforms",
+      "Protection of intellectual property rights",
+      "Ethical guidelines for emerging technologies"
+    ],
+    "technologyTransfer": {
+      "policy": "Shared with allied zones after reasonable proprietary periods",
+      "licensing": "Fair and reasonable rates",
+      "humanitarian": "Available without restriction",
+      "review": "Subject to safety and security review"
+    }
+  },
+  "finalProvisions": {
+    "supremeLaw": "This Charter constitutes the supreme law of the BLEU Galactic Empire",
+    "continuity": "Remains in force unless superseded by new founding document",
+    "interpretation": "Arbiter Assembly holds final authority"
+  },
+  "signatories": [
+    {
+      "zone": "Aquatic Vortex Zone (Poseidon Empire)",
+      "representative": "High Representative",
+      "seal": "SEAL OF THE AQUATIC VORTEX",
+      "status": "pending"
+    },
+    {
+      "zone": "TropiCore Forest Dome (Portuguese Casa da Guiné)",
+      "representative": "High Representative",
+      "seal": "SEAL OF THE TROPICORE FOREST",
+      "status": "pending"
+    },
+    {
+      "zone": "Volcanic Rift Arena (Dutch West India Company)",
+      "representative": "High Representative",
+      "seal": "SEAL OF THE VOLCANIC RIFT",
+      "status": "pending"
+    },
+    {
+      "zone": "Polar Womb Vault (British South Africa Company)",
+      "representative": "High Representative",
+      "seal": "SEAL OF THE POLAR VAULT",
+      "status": "pending"
+    },
+    {
+      "zone": "Dimensional Spiral Port (Anglo-Persian Oil Company)",
+      "representative": "High Representative",
+      "seal": "SEAL OF THE DIMENSIONAL SPIRAL",
+      "status": "pending"
+    },
+    {
+      "zone": "Galactic Observatory Nexus (Compagnie du Congo)",
+      "representative": "High Representative",
+      "seal": "SEAL OF THE GALACTIC OBSERVATORY",
+      "status": "pending"
+    }
+  ],
+  "enftMetadata": {
+    "standard": "ERC-721",
+    "mintable": true,
+    "burnable": false,
+    "transferable": true,
+    "royalties": {
+      "enabled": true,
+      "percentage": 2.5,
+      "recipient": "Imperial Treasury"
+    },
+    "attributes": [
+      {
+        "trait_type": "Document Type",
+        "value": "Charter"
+      },
+      {
+        "trait_type": "Version",
+        "value": "1.0.0"
+      },
+      {
+        "trait_type": "Counter-Zones",
+        "value": 6
+      },
+      {
+        "trait_type": "Articles",
+        "value": 10
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Governance Level",
+        "value": "Galactic"
+      }
+    ],
+    "image": "ipfs://QmBleuGalacticCharterImage",
+    "animation_url": "ipfs://QmBleuGalacticCharterAnimation",
+    "external_url": "https://hardhat-website.bleu-empire.gal/static/bleu-galactic-charter-scroll.md"
+  },
+  "verification": {
+    "checksumAlgorithm": "SHA-256",
+    "digitalSignature": "pending",
+    "timestampAuthority": "Galactic Observatory Nexus",
+    "blockchainAnchor": {
+      "network": "BLEU Chain",
+      "transactionHash": "pending",
+      "blockNumber": "pending"
+    }
+  },
+  "contact": {
+    "email": "charter@bleu-empire.gal",
+    "website": "https://bleu-empire.gal",
+    "archiveLocation": "Imperial Archives, Galactic Observatory Nexus",
+    "emergencyContact": "imperial-council@bleu-empire.gal"
+  }
+}
