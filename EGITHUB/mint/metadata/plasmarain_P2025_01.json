@@ -1,0 +1,23 @@
+{
+  "name": "PlasmaRain Festival ENFT #P-2025-01",
+  "description": "PlasmaRain — minted at end of EVOLSTUDIOS HoloConcert. Broadcast-tagged and holographic reel stored. Variable yield linked to live participation.",
+  "external_url": "https://evol.studios/plasmarain/P-2025-01",
+  "image": "ipfs://PLACEHOLDER_IMAGE_CID/plasmarain_P2025_01.png",
+  "animation_url": "ipfs://PLACEHOLDER_ANIM_CID/plasmarain_P2025_01.webm",
+  "mint_node": "Enato",
+  "ritual_window": "auto-generated-on-broadcast",
+  "broadcast_id": "EVOLSTUDIOS:HoloConcert-ENCT-2025-01",
+  "rarity_index": 0.94,
+  "non_transferable": false,
+  "lineage_signatures": [
+    {"role":"Broadcast Producer","address":"0xProducerAddr","signature":"SIG_PLACEHOLDER"}
+  ],
+  "attributes":[
+    {"trait_type":"Element","value":"PlasmaPearl"},
+    {"trait_type":"YieldClass","value":"Festival"},
+    {"trait_type":"Broadcast","value":"HoloConcert Dome"}
+  ],
+  "provenance_sha3_256":"PLACEHOLDER_SHA3_2",
+  "watchtower_row_id":"PLASMARAIN-ENCT-2025-01",
+  "mint_notes":"Yield multiplier determined by Tachometer g(T) at broadcast end."
+}

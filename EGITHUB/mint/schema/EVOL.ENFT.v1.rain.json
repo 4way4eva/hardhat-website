@@ -1,0 +1,29 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "EVOL.ENFT.v1 - Rain & Blessing Extension",
+  "type": "object",
+  "required": ["name","description","external_url","image","attributes","mint_node","ritual_window","provenance_sha3_256","broadcast_id"],
+  "properties": {
+    "name": {"type":"string"},
+    "description": {"type":"string"},
+    "external_url": {"type":"string","format":"uri"},
+    "image": {"type":"string","format":"uri"},
+    "animation_url": {"type":"string","format":"uri"},
+    "mint_node": {"type":"string","description":"Planetary/Orbital node (e.g., Saturn, Pluto, Enato)"},
+    "ritual_window": {"type":"string","description":"ISO timestamp or Tachometer tag for φ-Boost (e.g., 2025-11-05T10:10:00Z)"},
+    "broadcast_id": {"type":"string","description":"DREAMKAM/EVOLSTUDIOS stream ID"},
+    "rarity_index": {"type":"number","minimum":0,"maximum":1},
+    "non_transferable": {"type":"boolean"},
+    "lineage_signatures": {
+      "type":"array",
+      "items":{"type":"object","required":["role","address","signature"],"properties":{"role":{"type":"string"},"address":{"type":"string"},"signature":{"type":"string"}}}
+    },
+    "attributes": {
+      "type":"array",
+      "items":{"type":"object","properties":{"trait_type":{"type":"string"},"value":{}}}
+    },
+    "provenance_sha3_256": {"type":"string"},
+    "watchtower_row_id": {"type":"string"},
+    "mint_notes": {"type":"string"}
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "BLEU Jewel RARELY 1if1 #0001",
+  "description": "RARELY 1if1 — single ceremonial jewel; minted in Saturn Ring-Bar with Flame Crown refinement. Non-transferable lineage anchor.",
+  "external_url": "https://evol.studios/bundles/bleu_jewel_0001",
+  "image": "ipfs://PLACEHOLDER_IMAGE_CID/bleu_jewel_0001.png",
+  "animation_url": "ipfs://PLACEHOLDER_ANIM_CID/bleu_jewel_0001.webm",
+  "mint_node": "Saturn",
+  "ritual_window": "2025-11-10T10:10:00Z",
+  "broadcast_id": "DREAMKAM:67H2-Œ♋️-BLEU_JEWEL_0001",
+  "rarity_index": 1.0,
+  "non_transferable": true,
+  "lineage_signatures": [
+    {"role":"Elder Seal","address":"0xElderSealAddr","signature":"SIG_PLACEHOLDER"},
+    {"role":"Treasury Custodian","address":"0xTreasuryAddr","signature":"SIG_PLACEHOLDER"}
+  ],
+  "attributes":[
+    {"trait_type":"Element","value":"HeavenGold"},
+    {"trait_type":"Refine","value":"Flame Crown"},
+    {"trait_type":"Node","value":"Saturn Ring-Bar"},
+    {"trait_type":"YieldClass","value":"Mythic Governance"}
+  ],
+  "provenance_sha3_256":"713ae0c8dc63ce4d2b0d53db13ddcc938d9affb7b7f4ba630053ccc38ce07eed",
+  "watchtower_row_id":"VLT-SATURN_BAR_RARELY_1IF1-0001",
+  "mint_notes":"Minted during φ-Boost; cryo-refine bypass not required."
+}
