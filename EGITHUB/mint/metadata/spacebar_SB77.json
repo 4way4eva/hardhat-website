@@ -1,0 +1,22 @@
+{
+  "name": "SpaceBar Coin SB-77",
+  "description": "SpaceBar Coin — minted at BLEUFLEET orbital outpost for remine/refine credit. Redeemable for remine jobs, storage, and refinery access.",
+  "external_url": "https://evol.studios/spacebar/SB-77",
+  "image": "ipfs://PLACEHOLDER_IMAGE_CID/spacebar_SB77.png",
+  "mint_node": "BLEUFleet-Orbit-7",
+  "ritual_window": "2026-01-01T00:00:00Z",
+  "broadcast_id": "BLEUFLEET:SB-77-DEPLOY",
+  "rarity_index": 0.82,
+  "non_transferable": false,
+  "lineage_signatures": [
+    {"role":"Fleet Captain","address":"0xFleetCap","signature":"SIG_PLACEHOLDER"}
+  ],
+  "attributes":[
+    {"trait_type":"Element","value":"HeavenGold/PlasmaMix"},
+    {"trait_type":"Utility","value":"RemineCredit"},
+    {"trait_type":"Node","value":"BLEUFleet-Orbit-7"}
+  ],
+  "provenance_sha3_256":"PLACEHOLDER_SHA3_3",
+  "watchtower_row_id":"VLT-BLEUFLEET-SB77",
+  "mint_notes":"Redeemable in BLEU Gas Station and Orbital Refinery; audit split enforced on-chain."
+}

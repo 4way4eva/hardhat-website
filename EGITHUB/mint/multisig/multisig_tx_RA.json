@@ -1,0 +1,12 @@
+{
+  "to": "0x918144e4916eB656Db48F38329D72517a810f702",
+  "value": "0",
+  "data": "0xPLACEHOLDER_CALLDATA",
+  "operation": 0,
+  "safeTxGas": 0,
+  "baseGas": 0,
+  "gasPrice": 0,
+  "gasToken": "0x0000000000000000000000000000000000000000",
+  "refundReceiver": "0x0000000000000000000000000000000000000000",
+  "nonce": 0
+}

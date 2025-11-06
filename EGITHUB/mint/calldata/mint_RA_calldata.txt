@@ -1,0 +1,9 @@
+// Ethers.js example: mint(address to,uint256 tokenId,string memory tokenURI)
+const { ethers } = require("ethers");
+const iface = new ethers.utils.Interface(["function mint(address to,uint256 tokenId,string memory tokenURI)"]);
+const calldata_RA = iface.encodeFunctionData("mint", [
+  "0x638f2c25DC4346dbEF5566a2D5DA871F6D268b8a", // recipient
+  999901, // tokenId
+  "ipfs://PLACEHOLDER_METADATA_CID_R1"
+]);
+console.log("calldata:", calldata_RA);
